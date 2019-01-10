@@ -3,4 +3,4 @@ Ready To Use Colors for Android Application.
 
 
 ## Repository By Owes Shubho.
-[Website of Owes Shubho](https://www.shubho.info\)
+My Website Link[Shubho.info](https://shubho.info).
